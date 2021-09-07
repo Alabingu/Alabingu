@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alabingu
+- 👀 I’m interested in learning everything I can and make the projects I take part in thrive.
+- 🌱 I’m currently learning python and javascript.
+- 💞️ I’m looking to collaborate on open source development projects and make them succeed.
+- 📫 You can contact me via email - holasoybiel@gmail.com - or discord - Alabingu $$.#4580 -.
